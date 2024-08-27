@@ -7,7 +7,7 @@ public class Main {
         if (a % 3 == 0) ans = "YES";
         else ans = "NO";
         System.out.println(ans);
-        if (a % 3 == 0) ans = "YES";
+        if (a % 5 == 0) ans = "YES";
         else ans = "NO";
         System.out.println(ans);
     }
